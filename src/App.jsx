@@ -20,7 +20,8 @@ function App() {
       author: 'Isha Sharma',
       image: 'https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png',
       date   :"03 Jul,2024",
-      readtime:"4 Min Read"
+      readtime:"4 Min Read",
+      course:"fsd",
 
     },
     {
