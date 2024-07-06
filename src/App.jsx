@@ -14,11 +14,11 @@ import './App.css'
 
 function App() {
   const products = [
-    {
+{
       id: 1,
-      name: 'Best Full-Stack Development Project Ideas in 2024',
+      name: 'Top 10 Full-Stack Developer Frameworks in 2024',
       author: 'Isha Sharma',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg',
       date   :"03 Jul,2024",
       readtime:"4 Min Read"
 
@@ -35,9 +35,9 @@ function App() {
     },
     {
       id: 3,
-      name: '10 Best Database Management Systems For Software Developers',
-      author: 'By Isha Sharma',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png',
+      name :'The Future & Scope of Full-Stack Developers in India',
+      author: 'Isha Sharma',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-1536x1024.jpg',
       date   :"22 Mar, 2024",
       readtime:"4 Min Read",
       course:"fsd",
@@ -45,9 +45,9 @@ function App() {
    
     {
       id: 4,
-      name: ' How does Apache work? A detailed introduction to Apache',
-      author: 'By Tushar Vinocha',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png',
+      name: ' Top 10 Product-Based Companies for Full-Stack Developers [2024]',
+      author: 'Tushar Vinocha',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/10/Featured-Image-top-product-based-companies-for-full-stack-developers.webp',
       date   :"26 Mar, 2024",
       readtime:"5 Min Read",
       course:"fsd",
@@ -57,9 +57,9 @@ function App() {
     
     {
       id: 5,
-      name: 'Top 10 Full-Stack Developer Frameworks in 2024',
+      name: '7 Best Full-Stack Development Online Courses',
       author: 'Isha Sharma',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp',
       date   :"16 Apr, 2024",
       readtime:"5 Min Read",
       course:"fsd",
@@ -81,9 +81,9 @@ function App() {
     
     {
       id: 7,
-      name: '12 Real-World Data Science Examples: Power Of Data Science',
+      name: 'How to become a Data Scientist after Mechanical Engineering?',
       author: 'Lukesh',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-1536x804.png',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg',
       date   :"25 Mar,2024",
       readtime:"3 Min Read",
       course:"ds",
@@ -93,9 +93,9 @@ function App() {
     
     {
       id: 8,
-      name: 'Can A Commerce Student Do Data Science?',
+      name: 'Top Product-Based Companies for Data Science Freshers',
       author: 'Saakshi Priyadarshini',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-1536x804.png',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp',
       date   :"16 Apr, 2024",
       readtime:"3 Min Read",
       course:"ds",
@@ -105,9 +105,9 @@ function App() {
     
     {
       id: 9,
-      name: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
+      name: 'AI vs ML vs Data Science: What Should You Learn In 2024?',
       author: 'Tushar Vinocha',
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-1536x804.png',
       date   :"16 Apr,2024",
       readtime:"5 Min Read",
       course:"cs",  
@@ -152,8 +152,7 @@ function App() {
       readtime:"6 Min Read",
 
       course:"carrer",
-    },
-
+    }, 
   ];  
   return (
     <>
